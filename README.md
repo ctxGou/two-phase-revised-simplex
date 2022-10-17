@@ -1,9 +1,11 @@
 ###### Linear Programming 
 
 $$
-\text{minimize } c^Tx\\
-\text{subject to } A^T x=b, x\geq0\\
+\displaylines{
+\text{minimize } c^Tx \\
+\text{subject to } A^T x=b, x\geq0 \\
 x\in\mathbb{R}^n,c\in\mathbb{R}^n,A\in\mathbb{R}^{m×n},c\in\mathbb{R}^m
+}
 $$
 
 
